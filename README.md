@@ -1,4 +1,7 @@
-[React-redux tutorial](https://www.valentinog.com/blog/redux/#react-redux-tutorial-introducing-redux-saga)
+[Based on react-redux tutorial](https://www.valentinog.com/blog/redux/#react-redux-tutorial-introducing-redux-saga)
+[Intend to move towards the redux toolkit](https://redux-toolkit.js.org/)
+[See getting started with react for a react refresher](https://www.taniarascia.com/getting-started-with-react/)
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
